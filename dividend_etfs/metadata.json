@@ -1,0 +1,13 @@
+{
+  "source_file": "Dividend-ETFs.xlsx",
+  "dataset_id": "dividend-etfs",
+  "record_count": 25,
+  "generated_at": "2026-02-22T21:56:53Z",
+  "columns": [
+    "ticker",
+    "dividend_yield",
+    "trailing_pe_ratio",
+    "expense_ratio"
+  ],
+  "sheet": "Dividend ETFs"
+}

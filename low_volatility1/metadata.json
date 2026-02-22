@@ -1,0 +1,22 @@
+{
+  "source_file": "Low-Volatility1.xlsx",
+  "dataset_id": "low-volatility1",
+  "record_count": 100,
+  "generated_at": "2026-02-22T21:56:53Z",
+  "columns": [
+    "ticker",
+    "name",
+    "standard_deviation_of_daily_returns_5y_lookback",
+    "sector",
+    "price",
+    "dividend_yield",
+    "market_cap_millions",
+    "payout_ratio",
+    "beta_1y",
+    "52_week_low_daily",
+    "52_week_high_daily",
+    "pe_ratio",
+    "pe_ratio_forward"
+  ],
+  "sheet": "High Sharpe Ratio"
+}

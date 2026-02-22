@@ -1,0 +1,20 @@
+{
+  "source_file": "closed_end_funds.xlsx",
+  "dataset_id": "closed_end_funds",
+  "record_count": 152,
+  "generated_at": "2026-02-22T21:56:54Z",
+  "columns": [
+    "ticker",
+    "name",
+    "price",
+    "dividend_yield",
+    "avg_dividend_yield_5y",
+    "dividends_per_share_ttm",
+    "beta",
+    "high_52w",
+    "low_52w"
+  ],
+  "sheet": "Characteristics",
+  "source_updated": "2026-02-14",
+  "data_provider": "Intrinio"
+}

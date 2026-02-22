@@ -1,0 +1,21 @@
+{
+  "source_file": "best_dividend_stocks.xlsx",
+  "dataset_id": "best_dividend_stocks",
+  "record_count": 50,
+  "generated_at": "2026-02-22T21:56:53Z",
+  "columns": [
+    "ticker",
+    "name",
+    "sector",
+    "price",
+    "dividend_yield",
+    "avg_dividend_yield_5y",
+    "dividends_per_share_ttm",
+    "market_cap_m",
+    "beta",
+    "high_52w"
+  ],
+  "sheet": "Characteristics",
+  "source_updated": "2026-02-14",
+  "data_provider": "Intrinio"
+}

@@ -1,0 +1,553 @@
+[
+  {
+    "dividend_aristocrats_1989_2023": 1989,
+    "col_1": 1990,
+    "col_2": 1991,
+    "col_3": 1992,
+    "col_4": 1993,
+    "col_5": 1994,
+    "col_6": 1995,
+    "col_7": 1996,
+    "col_8": 1997,
+    "col_9": 1998,
+    "col_10": 1999,
+    "col_11": 2000,
+    "col_12": 2001,
+    "col_13": 2002,
+    "col_14": 2003,
+    "col_15": 2004,
+    "col_16": 2005,
+    "col_17": 2006,
+    "col_18": 2007,
+    "col_19": 2008,
+    "col_20": 2009,
+    "col_21": 2010,
+    "col_22": 2011,
+    "col_23": 2012,
+    "col_24": 2013,
+    "col_25": 2014,
+    "col_26": 2015,
+    "col_27": 2016,
+    "col_28": 2017,
+    "col_29": 2018,
+    "col_30": 2019,
+    "col_31": 2020,
+    "col_32": 2021,
+    "col_33": 2022,
+    "col_34": 2023
+  },
+  {
+    "col_24": "AbbVie (ABBV)"
+  },
+  {
+    "col_8": "Albertson's (ABS)"
+  },
+  {
+    "col_9": "Abbott Laboratories (ABT)"
+  },
+  {
+    "col_11": "Archer-Daniels-Midland (ADM)"
+  },
+  {
+    "col_10": "Automatic Data Processing (ADP)"
+  },
+  {
+    "col_18": "Aflac (AFL)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "American Home Products (AHP)"
+  },
+  {
+    "col_31": "Albemarle (ALB)"
+  },
+  {
+    "col_3": "AMB Property Corporation (AMB)"
+  },
+  {
+    "col_31": "Amcor (AMCR)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "AMP Inc. (AMP)"
+  },
+  {
+    "col_7": "Aon Plc (AON)"
+  },
+  {
+    "col_29": "A.O. Smith (AOS)"
+  },
+  {
+    "col_18": "Air Products & Chemicals (APD)"
+  },
+  {
+    "col_1": "Archstone (ASN)"
+  },
+  {
+    "col_10": "AmSouth Bancorp (ASO)"
+  },
+  {
+    "col_6": "Alltel (AT)"
+  },
+  {
+    "col_31": "Atmos Energy (ATO)"
+  },
+  {
+    "col_12": "Avery Dennison (AVY)"
+  },
+  {
+    "col_14": "Bank of America (BAC)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Baxter International (BAX)"
+  },
+  {
+    "col_16": "BB&T (BBT)"
+  },
+  {
+    "col_7": "C.R. Bard (BCR)"
+  },
+  {
+    "col_8": "Becton, Dickinson (BDX)"
+  },
+  {
+    "col_22": "Franklin Resources (BEN)"
+  },
+  {
+    "col_20": "Brown-Forman (BF.B)"
+  },
+  {
+    "col_19": "Bemis (BMS)"
+  },
+  {
+    "col_33": "Brown & (BRO)"
+  },
+  {
+    "col_11": "Budweiser (BUD)"
+  },
+  {
+    "col_12": "ConAgra (CAG)"
+  },
+  {
+    "col_24": "Cardinal Health (CAH)"
+  },
+  {
+    "col_31": "(CARR)"
+  },
+  {
+    "col_30": "Caterpillar (CAT)"
+  },
+  {
+    "col_12": "Chubb (CB)",
+    "col_30": "Chubb (CB)"
+  },
+  {
+    "col_17": "(CBSS)"
+  },
+  {
+    "col_3": "CoreStates Financial (CFL)"
+  },
+  {
+    "col_33": "Church & (CHD)"
+  },
+  {
+    "col_34": "(CHRW)"
+  },
+  {
+    "col_17": "Cincinnati Financial (CINF)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "CL",
+    "col_22": "Colgate-Palmolive (CL)"
+  },
+  {
+    "col_13": "Clorox (CLX)"
+  },
+  {
+    "col_6": "Comerica (CMA)"
+  },
+  {
+    "col_1": "Consolidated Natural Gas (CNG)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Central & Southwest (CSR)"
+  },
+  {
+    "col_20": "Cintas (CTAS)"
+  },
+  {
+    "col_10": "CenturyLink (CTL)"
+  },
+  {
+    "col_24": "Chevron (CVX)"
+  },
+  {
+    "col_2": "Deluxe Corporation (DLX)"
+  },
+  {
+    "col_1": "Dun & Bradstreet (DNB)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Dover Corporation (DOV)"
+  },
+  {
+    "col_21": "Ecolab (ECL)"
+  },
+  {
+    "col_11": "Consolidated Edison (ED)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Emerson Electric (EMR)"
+  },
+  {
+    "col_31": "Essex Property (ESS)"
+  },
+  {
+    "col_31": "Expeditors (EXPD)"
+  },
+  {
+    "col_12": "Family Dollar (FDO)"
+  },
+  {
+    "col_14": "First Horizon (FHN)"
+  },
+  {
+    "col_10": "(FPC)"
+  },
+  {
+    "col_28": "Federal  Realty (FRT)"
+  },
+  {
+    "col_16": "Fifth Third Banc. (FTB)"
+  },
+  {
+    "col_8": "(FTR)"
+  },
+  {
+    "col_8": "Gannett (GC)"
+  },
+  {
+    "col_28": "General Dynamics (GD)"
+  },
+  {
+    "col_12": "General Electric (GE)"
+  },
+  {
+    "col_1": "General Mills (GIS)"
+  },
+  {
+    "col_9": "(GLK)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Genuine Parts Company (GPC)",
+    "col_22": "Genuine Parts Company (GPC)"
+  },
+  {
+    "col_8": "W.W. Grainger (GWW)"
+  },
+  {
+    "col_8": "Huntington Bancshares (HBAN)"
+  },
+  {
+    "col_22": "HCP, Inc. (HCP)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Household International (HI)"
+  },
+  {
+    "col_1": "Heinz (HNZ)"
+  },
+  {
+    "col_1": "H&R Block (HRB)"
+  },
+  {
+    "col_21": "Hormel (HRL)"
+  },
+  {
+    "col_12": "(HSY)"
+  },
+  {
+    "col_32": "IBM (IBM)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "International Flavors & Fragrances (IFF)"
+  },
+  {
+    "col_8": "(IKN)"
+  },
+  {
+    "col_12": "(ITW)",
+    "col_22": "Illinois Tool Works (ITW)"
+  },
+  {
+    "col_12": "Johnson Controls (JCI)"
+  },
+  {
+    "col_4": "John Harland (JH)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Johnson & Johnson (JNJ)"
+  },
+  {
+    "col_1": "Jostens (JOS)"
+  },
+  {
+    "col_4": "Jefferson-Pilot (JP)"
+  },
+  {
+    "col_1": "JPMorgan Chase (JPM)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Kellogg (K)"
+  },
+  {
+    "col_5": "Keycorp (KEY)"
+  },
+  {
+    "col_1": "Kmart (KM)"
+  },
+  {
+    "col_9": "Kimberly-Clark (KMB)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Coca-Cola (KO)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Long Drug Stores (LDG)"
+  },
+  {
+    "col_10": "Leggett & Platt (LEG)"
+  },
+  {
+    "col_29": "Linde (LIN)"
+  },
+  {
+    "col_3": "Eli Lilly (LLY)"
+  },
+  {
+    "col_19": "(LM)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Lowe's (LOW)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Masco (MAS)"
+  },
+  {
+    "col_12": "May Department Stores (MAY)"
+  },
+  {
+    "col_12": "McDonald's (MCD)"
+  },
+  {
+    "col_22": "Medtronic (MDT)"
+  },
+  {
+    "col_1": "MSI Energy Services (MES)"
+  },
+  {
+    "col_13": "(MI)"
+  },
+  {
+    "col_21": "McCormick & Company (MKC)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "3M (MMM)"
+  },
+  {
+    "col_3": "Altria (MO)"
+  },
+  {
+    "col_12": "Merck (MKC)"
+  },
+  {
+    "col_16": "M&T Bank (MTB)"
+  },
+  {
+    "col_10": "(NC)"
+  },
+  {
+    "col_34": "(NDSN)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "NextEra Energy (NEE)",
+    "col_32": "NextEra (NEE)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "National Service Industries (NSI)"
+  },
+  {
+    "col_9": "Nucor (NUE)",
+    "col_22": "Nucor (NUE)"
+  },
+  {
+    "col_31": "Realty Income (O)"
+  },
+  {
+    "col_2": "Quaker Oats (OAT)"
+  },
+  {
+    "col_10": "(OK)"
+  },
+  {
+    "col_8": "Bakne One (ONE)"
+  },
+  {
+    "col_31": "Otis (OTIS)"
+  },
+  {
+    "col_30": "People's United (PBCT)"
+  },
+  {
+    "col_18": "Pitney Bowes (PBI)"
+  },
+  {
+    "col_9": "Pepsi (PEP)"
+  },
+  {
+    "col_3": "Pfizer (PFE)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Procter & Gamble (PG)"
+  },
+  {
+    "col_14": "Progressive (PGR)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "(PH)"
+  },
+  {
+    "col_10": "Pall Corporation (PLL)"
+  },
+  {
+    "col_24": "Pentair (PNR)"
+  },
+  {
+    "col_8": "PPG Industries (PPG)"
+  },
+  {
+    "col_4": "Providian Financial (PVN)"
+  },
+  {
+    "col_3": "Rite Aid (RAD)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Rubbermaid (RBD)"
+  },
+  {
+    "col_9": "Regions Financial (RF)"
+  },
+  {
+    "col_14": "Rohm & Haas (ROH)"
+  },
+  {
+    "col_29": "Roper (ROP)"
+  },
+  {
+    "col_31": "(ROST)"
+  },
+  {
+    "col_8": "R.R. Donnelley & Sons (RRD)"
+  },
+  {
+    "col_30": "Raytheon (RTX)"
+  },
+  {
+    "col_15": "Sherwin-Williams (SHW)"
+  },
+  {
+    "col_11": "Sigma-Aldrich Corporation (SIAL)"
+  },
+  {
+    "col_34": "(SJM)"
+  },
+  {
+    "col_17": "(SLM)"
+  },
+  {
+    "col_17": "(SNV)"
+  },
+  {
+    "col_14": "(SOTR)"
+  },
+  {
+    "col_10": "S&P Global (SPGI)"
+  },
+  {
+    "col_17": "Questar (STR)"
+  },
+  {
+    "col_15": "State Street (STT)"
+  },
+  {
+    "col_10": "Supervalu (SVU)"
+  },
+  {
+    "col_3": "Stanley Black & Decker (SWK)"
+  },
+  {
+    "col_12": "Sysco (SYY)",
+    "col_22": "Sysco (SYY)"
+  },
+  {
+    "col_22": "AT&T (T)"
+  },
+  {
+    "col_3": "(TA)"
+  },
+  {
+    "col_12": "Teco (TE)"
+  },
+  {
+    "col_18": "Integrys (TEG)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Torchmark (TMK)"
+  },
+  {
+    "col_8": "Target (TGT)"
+  },
+  {
+    "col_22": "T. Row Price Group (TROW)"
+  },
+  {
+    "col_8": "TRW Inc. (TRW)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Texas Utilities (TXU)"
+  },
+  {
+    "col_10": "U.S. Bancorp (USB)"
+  },
+  {
+    "col_1": "UST Inc. (UST)"
+  },
+  {
+    "col_9": "VF Corporation (VFC)"
+  },
+  {
+    "col_12": "Walgreens-Boots Alliance (WBA)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Winn-Dixie (WIN)"
+  },
+  {
+    "dividend_aristocrats_1989_2023": "Warner-Lambert (WLA)"
+  },
+  {
+    "col_13": "Walmart (WMT)"
+  },
+  {
+    "col_32": "West (WST)"
+  },
+  {
+    "col_16": "Wrigley (WWY)"
+  },
+  {
+    "col_18": "ExxonMobil (XOM)"
+  },
+  {
+    "col_11": "Xcel Energy (XEL)"
+  },
+  {
+    "col_3": "(YELL)"
+  }
+]

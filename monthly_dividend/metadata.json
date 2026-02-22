@@ -1,0 +1,33 @@
+{
+  "source_file": "monthly_dividend.xlsx",
+  "dataset_id": "monthly_dividend",
+  "record_count": 117,
+  "generated_at": "2026-02-22T21:56:55Z",
+  "columns": [
+    "ticker",
+    "name_click_to_read_analysis",
+    "rating",
+    "price_at_time_of_rating",
+    "stock_price",
+    "fair_value_price",
+    "percent_fair_value",
+    "dividend_yield",
+    "valuation_return",
+    "growth_return",
+    "expected_total_return",
+    "dividend_risk_score",
+    "p_e_ratio",
+    "forward_eps_estimate_or_similar_metric",
+    "annual_dividend_payments",
+    "payout_ratio",
+    "years_of_dividend_growth",
+    "dividend_growth_rate",
+    "dividend_frequency",
+    "security_type",
+    "international",
+    "sector",
+    "last_report_upload",
+    "analyst"
+  ],
+  "sheet": "Data"
+}

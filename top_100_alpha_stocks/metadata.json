@@ -1,0 +1,19 @@
+{
+  "source_file": "Top-100-Alpha-Stocks.xlsx",
+  "dataset_id": "top-100-alpha-stocks",
+  "record_count": 100,
+  "generated_at": "2026-02-22T21:56:53Z",
+  "columns": [
+    "ticker",
+    "name",
+    "alpha",
+    "risk_free_rate",
+    "market_risk_premium",
+    "beta_1_yr",
+    "expected_total_return",
+    "dividend_yield",
+    "valuation_return",
+    "growth_return"
+  ],
+  "sheet": "Top 100 Alpha Stocks"
+}

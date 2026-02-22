@@ -1,0 +1,20 @@
+{
+  "source_file": "mlp_list.xlsx",
+  "dataset_id": "mlp_list",
+  "record_count": 65,
+  "generated_at": "2026-02-22T21:56:55Z",
+  "columns": [
+    "ticker",
+    "name",
+    "sector",
+    "price",
+    "dividend_yield",
+    "dividends_per_share_ttm",
+    "market_cap_m",
+    "trailing_pe_ratio",
+    "payout_ratio"
+  ],
+  "sheet": "Characteristics",
+  "source_updated": "2026-02-14",
+  "data_provider": "Intrinio"
+}

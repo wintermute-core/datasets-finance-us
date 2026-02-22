@@ -1,0 +1,1341 @@
+[
+  {
+    "ticker": "ARDC",
+    "name": "Ares Dynamic Credit Allocation Fund, Inc.",
+    "price": 13.23,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.0976,
+    "dividends_per_share_ttm": 1.35,
+    "beta": 0.4873,
+    "high_52w": 14.42,
+    "low_52w": 10.62
+  },
+  {
+    "ticker": "AWF",
+    "name": "AllianceBernstein Global High Income Fund Inc.",
+    "price": 10.64,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.07463,
+    "dividends_per_share_ttm": 0,
+    "high_52w": 11.09,
+    "low_52w": 8.76
+  },
+  {
+    "ticker": "BBN",
+    "name": "BlackRock Taxable Municipal Bond Trust",
+    "price": 16.6,
+    "avg_dividend_yield_5y": 0.07609,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BCX",
+    "name": "BlackRock Resources & Commodities Strategy Trust",
+    "price": 13.125,
+    "dividend_yield": 0.06,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BDJ",
+    "name": "BlackRock Enhanced Equity Dividend Trust",
+    "price": 9.48,
+    "dividend_yield": 0.09,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BGH",
+    "name": "Barings Global Short Duration High Yield Fund",
+    "price": 14.93,
+    "dividend_yield": 0.1,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BGR",
+    "name": "BlackRock Energy & Resources Trust",
+    "price": 14.91,
+    "dividend_yield": 0.04,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BGT",
+    "name": "BlackRock Floating Rate Income Trust",
+    "price": 11.32,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.09859,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BGX",
+    "name": "Blackstone Long-Short Credit Fund",
+    "price": 11.31,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.09361,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BGY",
+    "name": "BlackRock Enhanced International Dividend Trust",
+    "price": 6.1,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.0703,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BHK",
+    "name": "BlackRock Core Bond Trust",
+    "price": 9.655,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09961,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BIT",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 13.155,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.11541,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "BKT",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.12,
+    "avg_dividend_yield_5y": 0.10223,
+    "dividends_per_share_ttm": 1.3,
+    "beta": 0.181,
+    "high_52w": 11.23,
+    "low_52w": 10.11
+  },
+  {
+    "ticker": "BLW",
+    "name": "BlackRock Limited Duration Income Trust",
+    "price": 13.745,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.0912,
+    "dividends_per_share_ttm": 1.36,
+    "beta": 0.3913,
+    "high_52w": 13.84,
+    "low_52w": 11.41
+  },
+  {
+    "ticker": "BME",
+    "name": "BlackRock Health Sciences Opportunities Portfolio",
+    "price": 42.11,
+    "dividend_yield": 0.06,
+    "avg_dividend_yield_5y": 0.06348,
+    "dividends_per_share_ttm": 3.15,
+    "beta": 0.4914,
+    "high_52w": 42.3,
+    "low_52w": 31.68
+  },
+  {
+    "ticker": "BOE",
+    "name": "BlackRock Enhanced Global Dividend Trust",
+    "price": 11.95,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.06771,
+    "dividends_per_share_ttm": 0.99,
+    "beta": 0.7573,
+    "high_52w": 12.18,
+    "low_52w": 8.46
+  },
+  {
+    "ticker": "BRW",
+    "name": "Saba Capital Income & Opportunities Fund",
+    "price": 6.425,
+    "avg_dividend_yield_5y": 0.15396,
+    "dividends_per_share_ttm": 1.12,
+    "beta": 0.2342,
+    "high_52w": 7.78,
+    "low_52w": 6.09
+  },
+  {
+    "ticker": "BST",
+    "name": "BlackRock Science and Technology Trust",
+    "price": 39.66,
+    "dividend_yield": 0.14,
+    "avg_dividend_yield_5y": 0.0851,
+    "dividends_per_share_ttm": 4.2,
+    "beta": 1.176,
+    "high_52w": 42.15,
+    "low_52w": 25.21
+  },
+  {
+    "ticker": "BTZ",
+    "name": "BlackRock Credit Allocation Income Trust",
+    "price": 10.74,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09201,
+    "dividends_per_share_ttm": 0,
+    "high_52w": 10.84,
+    "low_52w": 8.76
+  },
+  {
+    "ticker": "BXMX",
+    "name": "Nuveen S&P 500 Buy-Write Income Fund",
+    "price": 14.69,
+    "dividend_yield": 0.07,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "CII",
+    "name": "BlackRock Enhanced Large Cap Core Fund, Inc.",
+    "price": 22.54,
+    "dividend_yield": 0.07,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "CIK",
+    "name": "Credit Suisse Asset Management Income Fund, Inc.",
+    "price": 2.805,
+    "dividend_yield": 0.1,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DBL",
+    "name": "DoubleLine Opportunistic Credit Fund",
+    "price": 15.12,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.08715,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DFP",
+    "name": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.",
+    "price": 21.86,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.07609,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DHF",
+    "name": "BNY Mellon High Yield Strategies Fund",
+    "price": 2.56,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.08476,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DHY",
+    "name": "Credit Suisse High Yield Bond Fund",
+    "price": 2,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09228,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DIAX",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 15.675,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.07444,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DLY",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 14.95,
+    "avg_dividend_yield_5y": 0.09629,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DSL",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.555,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.11731,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "DSU",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 10.045,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.09735,
+    "dividends_per_share_ttm": 0,
+    "beta": 0.4169
+  },
+  {
+    "ticker": "EAD",
+    "name": "Allspring Income Opportunities Fund",
+    "price": 6.85,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.09658,
+    "dividends_per_share_ttm": 0.64,
+    "beta": 0.5353,
+    "high_52w": 6.89,
+    "low_52w": 5.4
+  },
+  {
+    "ticker": "EDD",
+    "name": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",
+    "price": 6.165,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.06809,
+    "dividends_per_share_ttm": 0.53,
+    "beta": 0.4639,
+    "high_52w": 6.17,
+    "low_52w": 4
+  },
+  {
+    "ticker": "EFR",
+    "name": "Eaton Vance Senior Floating-Rate Trust",
+    "price": 11.085,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.10092,
+    "dividends_per_share_ttm": 1.04,
+    "beta": 0.4393,
+    "high_52w": 12.11,
+    "low_52w": 9.66
+  },
+  {
+    "ticker": "EFT",
+    "name": "Eaton Vance Floating-Rate Income Trust",
+    "price": 11.35,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.09831,
+    "dividends_per_share_ttm": 1.08,
+    "beta": 0.4906,
+    "high_52w": 12.29,
+    "low_52w": 9.69
+  },
+  {
+    "ticker": "EHI",
+    "name": "Western Asset Global High Income Fund Inc.",
+    "price": 6.53,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.12862,
+    "dividends_per_share_ttm": 0.84,
+    "beta": 0.3945,
+    "high_52w": 6.55,
+    "low_52w": 5.48
+  },
+  {
+    "ticker": "EMD",
+    "name": "Western Asset Emerging Markets Debt Fund Inc.",
+    "price": 11.275,
+    "avg_dividend_yield_5y": 0.09113,
+    "dividends_per_share_ttm": 0,
+    "high_52w": 11.28,
+    "low_52w": 7.81
+  },
+  {
+    "ticker": "EOI",
+    "name": "Eaton Vance Enhanced Equity Income Fund",
+    "price": 20.43,
+    "dividend_yield": 0.08,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "EOS",
+    "name": "Eaton Vance Enhanced Equity Income Fund II",
+    "price": 21.97,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.06992,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ERC",
+    "name": "Allspring Multi-Sector Income Fund",
+    "price": 9.39,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.10042,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ETB",
+    "name": "Eaton Vance Tax-Managed Buy-Write Income Fund",
+    "price": 15.39,
+    "dividend_yield": 0.09,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ETJ",
+    "name": "Eaton Vance Risk-Managed Diversified Equity Income Fund",
+    "price": 8.71,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.09334,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ETV",
+    "name": "Eaton Vance Tax-Managed Buy-Write Opportunities Fund",
+    "price": 14.65,
+    "avg_dividend_yield_5y": 0.08436,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ETW",
+    "name": "Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund",
+    "price": 9.42,
+    "avg_dividend_yield_5y": 0.08337,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ETY",
+    "name": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+    "price": 14.92,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.07243,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "EVG",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.1,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.09237,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "EVV",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 9.95,
+    "avg_dividend_yield_5y": 0.10486,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "EXG",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 9.63,
+    "dividend_yield": 0.11,
+    "dividends_per_share_ttm": 0.79,
+    "beta": 0.874
+  },
+  {
+    "ticker": "FAX",
+    "name": "Abrdn Asia-Pacific Income Fund Inc",
+    "price": 16.14,
+    "dividend_yield": 0.14,
+    "avg_dividend_yield_5y": 0.12429,
+    "dividends_per_share_ttm": 1.98,
+    "beta": 0.3746,
+    "high_52w": 16.15,
+    "low_52w": 12.59
+  },
+  {
+    "ticker": "FCT",
+    "name": "First Trust Senior Floating Rate Income Fund II",
+    "price": 9.94,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.1078,
+    "dividends_per_share_ttm": 1.16,
+    "beta": 0.3547,
+    "high_52w": 10.01,
+    "low_52w": 7.81
+  },
+  {
+    "ticker": "FFA",
+    "name": "First Trust Enhanced Equity Income Fund",
+    "price": 21.85,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.05986,
+    "dividends_per_share_ttm": 1.47,
+    "beta": 0.9002,
+    "high_52w": 22.31,
+    "low_52w": 14.21
+  },
+  {
+    "ticker": "FFC",
+    "name": "Flaherty & Crumrine Preferred Securities Income Fund Incorporated",
+    "price": 16.895,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.07359,
+    "dividends_per_share_ttm": 1.18,
+    "beta": 0.552,
+    "high_52w": 16.91,
+    "low_52w": 13.36
+  },
+  {
+    "ticker": "FLC",
+    "name": "Flaherty & Crumrine Total Return Fund Inc.",
+    "price": 18.02,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.07057,
+    "dividends_per_share_ttm": 1.2,
+    "beta": 0.5498,
+    "high_52w": 18.08,
+    "low_52w": 13.95
+  },
+  {
+    "ticker": "FOF",
+    "name": "Cohen & Steers Closed-End Opportunity Fund",
+    "price": 14.35,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.07699,
+    "dividends_per_share_ttm": 1.04,
+    "beta": 0.7238,
+    "high_52w": 14.95,
+    "low_52w": 9.63
+  },
+  {
+    "ticker": "FPF",
+    "name": "First Trust Intermediate Duration Preferred & Income Fund",
+    "price": 19.05,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.0811,
+    "dividends_per_share_ttm": 0,
+    "high_52w": 19.05,
+    "low_52w": 14.49
+  },
+  {
+    "ticker": "FRA",
+    "name": "BlackRock Floating Rate Income Strategies Fund Inc.",
+    "price": 11.63,
+    "dividend_yield": 0.07,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "FSD",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 0,
+    "dividend_yield": 0.11,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "FTF",
+    "name": "Franklin Limited Duration Income Trust",
+    "price": 6.195,
+    "avg_dividend_yield_5y": 0.12426,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "GBAB",
+    "name": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust",
+    "price": 15.425,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.10049,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "GHY",
+    "name": "PGIM Global High Yield Fund, Inc.",
+    "price": 12.91,
+    "avg_dividend_yield_5y": 0.0979,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HEQ",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.41,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09566,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HFRO",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 6.42,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.11484,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HIO",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 3.81,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.10326,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HIX",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 4.25,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.13868,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HPF",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 16.14,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09126,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "HPI",
+    "name": "John Hancock Preferred Income Fund",
+    "price": 16.28,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09286,
+    "dividends_per_share_ttm": 1.48,
+    "beta": 0.6899,
+    "high_52w": 16.97,
+    "low_52w": 13.44
+  },
+  {
+    "ticker": "HPS",
+    "name": "John Hancock Preferred Income Fund III",
+    "price": 14.79,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09135,
+    "dividends_per_share_ttm": 1.32,
+    "beta": 0.5959,
+    "high_52w": 15.11,
+    "low_52w": 12.04
+  },
+  {
+    "ticker": "HTD",
+    "name": "John Hancock Tax-Advantaged Dividend Income Fund",
+    "price": 25.54,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.06878,
+    "dividends_per_share_ttm": 1.8,
+    "beta": 0.5783,
+    "high_52w": 25.65,
+    "low_52w": 18.93
+  },
+  {
+    "ticker": "HYB",
+    "name": "Hoya Corporation",
+    "price": 154.35,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.0548,
+    "dividends_per_share_ttm": 0.48,
+    "beta": 0.5389
+  },
+  {
+    "ticker": "HYT",
+    "name": "BlackRock Corporate High Yield Fund, Inc.",
+    "price": 8.88,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.10481,
+    "dividends_per_share_ttm": 0.97,
+    "beta": 0.5673,
+    "high_52w": 9.28,
+    "low_52w": 7.12
+  },
+  {
+    "ticker": "IDE",
+    "name": "Voya Infrastructure, Industrials and Materials Fund",
+    "price": 14.33,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.07369,
+    "dividends_per_share_ttm": 1.3,
+    "beta": 0.759,
+    "high_52w": 14.05,
+    "low_52w": 7.98
+  },
+  {
+    "ticker": "IGA",
+    "name": "Voya Global Advantage and Premium Opportunity Fund",
+    "price": 9.96,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09015,
+    "dividends_per_share_ttm": 1.1,
+    "beta": 0.4874,
+    "high_52w": 10.02,
+    "low_52w": 7.66
+  },
+  {
+    "ticker": "IGD",
+    "name": "Voya Global Equity Dividend Fund",
+    "price": 5.865,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09268,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "ISD",
+    "name": "PGIM High Yield Bond Fund, Inc.",
+    "price": 14.64,
+    "avg_dividend_yield_5y": 0.0872,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "IVH",
+    "name": "Carlton Precious Inc.",
+    "price": 0.08,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.03672,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JCE",
+    "name": "Nuveen Core Equity Alpha Fund",
+    "price": 15.62,
+    "dividend_yield": 0.18,
+    "avg_dividend_yield_5y": 0.10042,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JFR",
+    "name": "Nuveen Floating Rate Income Fund",
+    "price": 7.735,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.11667,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JGH",
+    "name": "Nuveen Global High Income Fund",
+    "price": 12.85,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.09975,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JHS",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.72,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.0546,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JLS",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 18.71,
+    "dividend_yield": 0.06,
+    "avg_dividend_yield_5y": 0.07754,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JMM",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 6.21,
+    "dividend_yield": 0.06,
+    "avg_dividend_yield_5y": 0.05585,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JPC",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 8.24,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.08036,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "JPI",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 20.67,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.06916,
+    "dividends_per_share_ttm": 1.99,
+    "beta": 0.5929
+  },
+  {
+    "ticker": "JPS",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 0,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.05103,
+    "dividends_per_share_ttm": 0.51,
+    "beta": 0.6017
+  },
+  {
+    "ticker": "JQC",
+    "name": "Nuveen Credit Strategies Income Fund",
+    "price": 5.075,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.11674,
+    "dividends_per_share_ttm": 0.67,
+    "beta": 0.4369,
+    "high_52w": 5.24,
+    "low_52w": 4.11
+  },
+  {
+    "ticker": "JRI",
+    "name": "Nuveen Real Asset Income and Growth Fund",
+    "price": 13.23,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09344,
+    "dividends_per_share_ttm": 1.6,
+    "beta": 0.6917,
+    "high_52w": 13.68,
+    "low_52w": 9.48
+  },
+  {
+    "ticker": "JRS",
+    "name": "Nuveen Real Estate Income Fund",
+    "price": 8.08,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.09228,
+    "dividends_per_share_ttm": 0.68,
+    "beta": 0.8928,
+    "high_52w": 8.19,
+    "low_52w": 6.15
+  },
+  {
+    "ticker": "LDP",
+    "name": "Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",
+    "price": 21.39,
+    "dividend_yield": 0.9,
+    "avg_dividend_yield_5y": 0.22053,
+    "dividends_per_share_ttm": 1.57,
+    "beta": 0.5237,
+    "high_52w": 21.52,
+    "low_52w": 17.26
+  },
+  {
+    "ticker": "MCN",
+    "name": "XAI Madison Equity Premium Income Fund",
+    "price": 6.165,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.12081,
+    "dividends_per_share_ttm": 0.78,
+    "beta": 0.4556,
+    "high_52w": 6.2,
+    "low_52w": 4.68
+  },
+  {
+    "ticker": "MCR",
+    "name": "MFS Charter Income Trust",
+    "price": 6.31,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.09231,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "MIN",
+    "name": "MFS Intermediate Income Trust",
+    "price": 2.6,
+    "dividend_yield": 0.1,
+    "avg_dividend_yield_5y": 0.10105,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "MMT",
+    "name": "MFS Multimarket Income Trust",
+    "price": 4.79,
+    "dividend_yield": 0.1,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "MSD",
+    "name": "Morgan Stanley Emerging Markets Debt Fund",
+    "price": 7.89,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.08556,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NAD",
+    "name": "Nuveen Quality Municipal Income Fund",
+    "price": 12.205,
+    "dividend_yield": 0.06,
+    "avg_dividend_yield_5y": 0.05766,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NBB",
+    "name": "Nuveen Taxable Municipal Income Fund",
+    "price": 16.28,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.07548,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NDMO",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 10.49,
+    "avg_dividend_yield_5y": 0.07806,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NEA",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 11.74,
+    "avg_dividend_yield_5y": 0.05684,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NFJ",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 13.81,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.07768,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NHS",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 7.725,
+    "dividend_yield": 0.13,
+    "avg_dividend_yield_5y": 0.13959,
+    "dividends_per_share_ttm": 1.09,
+    "beta": 0.4097
+  },
+  {
+    "ticker": "NIM",
+    "name": "Nuveen Select Maturities Municipal Fund",
+    "price": 9.7,
+    "dividend_yield": 0.03,
+    "avg_dividend_yield_5y": 0.03199,
+    "dividends_per_share_ttm": 0.34,
+    "beta": 0.1883,
+    "high_52w": 9.94,
+    "low_52w": 8.56
+  },
+  {
+    "ticker": "NMAI",
+    "name": "Nuveen Multi-Asset Income Fund",
+    "price": 13.71,
+    "avg_dividend_yield_5y": 0.10004,
+    "dividends_per_share_ttm": 1.41,
+    "beta": 0.6465,
+    "high_52w": 13.96,
+    "low_52w": 9.38
+  },
+  {
+    "ticker": "NMCO",
+    "name": "Nuveen Municipal Credit Opportunities Fund",
+    "price": 10.73,
+    "avg_dividend_yield_5y": 0.06813,
+    "dividends_per_share_ttm": 0.82,
+    "beta": 0.3411,
+    "high_52w": 10.81,
+    "low_52w": 9.02
+  },
+  {
+    "ticker": "NMI",
+    "name": "Nuveen Municipal Income Fund Inc.",
+    "price": 10.19,
+    "dividend_yield": 0.04,
+    "avg_dividend_yield_5y": 0.03882,
+    "dividends_per_share_ttm": 0.46,
+    "beta": 0.1396,
+    "high_52w": 10.53,
+    "low_52w": 8.83
+  },
+  {
+    "ticker": "NMZ",
+    "name": "Nuveen Municipal High Income Opportunity Fund",
+    "price": 10.585,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.06785,
+    "dividends_per_share_ttm": 0.79,
+    "beta": 0.2613,
+    "high_52w": 10.6,
+    "low_52w": 8.74
+  },
+  {
+    "ticker": "NPCT",
+    "name": "Nuveen Core Plus Impact Fund",
+    "price": 10.59,
+    "avg_dividend_yield_5y": 0.10924,
+    "dividends_per_share_ttm": 1.32,
+    "beta": 0.3958,
+    "high_52w": 10.62,
+    "low_52w": 8.74
+  },
+  {
+    "ticker": "NPFD",
+    "name": "Nuveen Variable Rate Preferred & Income Fund",
+    "price": 19.57,
+    "avg_dividend_yield_5y": 0.06577,
+    "dividends_per_share_ttm": 1.99,
+    "high_52w": 19.93,
+    "low_52w": 15.28
+  },
+  {
+    "ticker": "NUV",
+    "name": "Nuveen Municipal Value Fund, Inc.",
+    "price": 9.195,
+    "dividend_yield": 0.04,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NUW",
+    "name": "Nuveen AMT-Free Municipal Value Fund",
+    "price": 14.43,
+    "dividend_yield": 0.05,
+    "avg_dividend_yield_5y": 0.03759,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NVG",
+    "name": "Nuveen AMT-Free Municipal Credit Income Fund of Beneficial Interest",
+    "price": 13.35,
+    "avg_dividend_yield_5y": 0.05909,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NXP",
+    "name": "Nuveen Select Tax-Free Income Portfolio",
+    "price": 14.51,
+    "dividend_yield": 0.04,
+    "avg_dividend_yield_5y": 0.04082,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "NZF",
+    "name": "Nuveen Municipal Credit Income Fund",
+    "price": 12.95,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.05917,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "OPP",
+    "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",
+    "price": 7.94,
+    "dividend_yield": 0.2,
+    "avg_dividend_yield_5y": 0.18467,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PAXS",
+    "name": "PIMCO Access Income Fund",
+    "price": 15.83,
+    "avg_dividend_yield_5y": 0.09542,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PCF",
+    "name": "High Income Securities Fund",
+    "price": 6.12,
+    "dividend_yield": 0.13,
+    "avg_dividend_yield_5y": 0.13075,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PCM",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 6.08,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.15227,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PCN",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 12.77,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.10897,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PDI",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 18.65,
+    "dividend_yield": 0.13,
+    "avg_dividend_yield_5y": 0.15607,
+    "dividends_per_share_ttm": 2.65,
+    "beta": 0.4869
+  },
+  {
+    "ticker": "PDO",
+    "name": "PIMCO Dynamic Income Opportunities Fund",
+    "price": 14.065,
+    "avg_dividend_yield_5y": 0.13377,
+    "dividends_per_share_ttm": 1.53,
+    "beta": 0.434,
+    "high_52w": 14.14,
+    "low_52w": 10.66
+  },
+  {
+    "ticker": "PDT",
+    "name": "John Hancock Premium Dividend Fund",
+    "price": 13.47,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.08573,
+    "dividends_per_share_ttm": 0.99,
+    "beta": 0.6474,
+    "high_52w": 13.49,
+    "low_52w": 10.64
+  },
+  {
+    "ticker": "PDX",
+    "name": "PIMCO Dynamic Income Strategy Fund",
+    "price": 20.12,
+    "avg_dividend_yield_5y": 0.06477,
+    "dividends_per_share_ttm": 4.57,
+    "beta": 0.0497,
+    "high_52w": 21.04,
+    "low_52w": 15.53
+  },
+  {
+    "ticker": "PFD",
+    "name": "Flaherty & Crumrine Preferred and Income Fund",
+    "price": 12.015,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.06767,
+    "dividends_per_share_ttm": 0.77,
+    "beta": 0.4808,
+    "high_52w": 12.08,
+    "low_52w": 9.66
+  },
+  {
+    "ticker": "PFL",
+    "name": "PIMCO Income Strategy Fund",
+    "price": 8.39,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.11751,
+    "dividends_per_share_ttm": 0.98,
+    "beta": 0.4131,
+    "high_52w": 8.45,
+    "low_52w": 6.39
+  },
+  {
+    "ticker": "PFN",
+    "name": "PIMCO Income Strategy Fund II",
+    "price": 7.375,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.11824,
+    "dividends_per_share_ttm": 0.86,
+    "beta": 0.382,
+    "high_52w": 7.46,
+    "low_52w": 5.63
+  },
+  {
+    "ticker": "PGP",
+    "name": "PIMCO Global StocksPLUS and Income Fund",
+    "price": 9.31,
+    "dividend_yield": 0.12,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PHD",
+    "name": "Providence Gold Mines Inc.",
+    "price": 9.96,
+    "avg_dividend_yield_5y": 0.08317,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PHK",
+    "name": "PIMCO High Income Fund",
+    "price": 4.91,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.11806,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PHT",
+    "name": "Haulotte Group SA",
+    "price": 8.28,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.07794,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PIM",
+    "name": "Putnam Master Intermediate Income Trust",
+    "price": 3.33,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.08024,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PMF",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 7.78,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.06696,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PML",
+    "name": "PIMCO Municipal Income Fund II",
+    "price": 7.87,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.07369,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PMX",
+    "name": "ProAm Explorations Corporation",
+    "price": 6.67,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.06368,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PPT",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 3.63,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.08548,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PSF",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 20.5,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.0823,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "PTA",
+    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
+    "price": 19.78,
+    "avg_dividend_yield_5y": 0.08298,
+    "dividends_per_share_ttm": 1.61,
+    "beta": 0.473
+  },
+  {
+    "ticker": "PTY",
+    "name": "PIMCO Corporate & Income Opportunity Fund",
+    "price": 13.01,
+    "dividend_yield": 0.11,
+    "avg_dividend_yield_5y": 0.11292,
+    "dividends_per_share_ttm": 1.43,
+    "beta": 0.4612,
+    "high_52w": 14.05,
+    "low_52w": 10.63
+  },
+  {
+    "ticker": "QQQX",
+    "name": "Nuveen Nasdaq 100 Dynamic Overwrite Fund",
+    "price": 27.46,
+    "avg_dividend_yield_5y": 0.06918,
+    "dividends_per_share_ttm": 2.24,
+    "beta": 1.0229,
+    "high_52w": 28.81,
+    "low_52w": 19.11
+  },
+  {
+    "ticker": "RA",
+    "name": "Brookfield Real Assets Income Fund Inc.",
+    "price": 13.45,
+    "dividend_yield": 0.14,
+    "avg_dividend_yield_5y": 0.13394,
+    "dividends_per_share_ttm": 1.42,
+    "beta": 0.2228,
+    "high_52w": 13.45,
+    "low_52w": 10.75
+  },
+  {
+    "ticker": "RCS",
+    "name": "PIMCO Strategic Income Fund",
+    "price": 5.76,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.10146,
+    "dividends_per_share_ttm": 0.48,
+    "beta": 0.6771,
+    "high_52w": 7.76,
+    "low_52w": 4.95
+  },
+  {
+    "ticker": "RFI",
+    "name": "Cohen & Steers Total Return Realty Fund, Inc.",
+    "price": 11.94,
+    "dividend_yield": 0.09,
+    "avg_dividend_yield_5y": 0.09224,
+    "dividends_per_share_ttm": 0.96,
+    "beta": 0.7078,
+    "high_52w": 11.99,
+    "low_52w": 9.74
+  },
+  {
+    "ticker": "RLTY",
+    "name": "Cohen & Steers Real Estate Opportunities Fund",
+    "price": 15.72,
+    "avg_dividend_yield_5y": 0.06548,
+    "dividends_per_share_ttm": 1.32,
+    "beta": 0.7504,
+    "high_52w": 15.81,
+    "low_52w": 12
+  },
+  {
+    "ticker": "RNP",
+    "name": "Cohen & Steers REIT and Preferred and Income Fund Inc.",
+    "price": 21.45,
+    "dividend_yield": 0.08,
+    "dividends_per_share_ttm": 0,
+    "high_52w": 21.85,
+    "low_52w": 17.83
+  },
+  {
+    "ticker": "RQI",
+    "name": "Cohen & Steers Quality Income Realty Fund, Inc.",
+    "price": 13.19,
+    "dividend_yield": 0.08,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "SDHY",
+    "name": "PGIM Short Duration High Yield Fund",
+    "price": 16.77,
+    "avg_dividend_yield_5y": 0.07719,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "SPXX",
+    "name": "Nuveen S&P 500 Dynamic Overwrite Fund",
+    "price": 17.81,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.06517,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "STK",
+    "name": "Columbia Seligman Premium Technology Growth Fund, Inc.",
+    "price": 39.86,
+    "dividend_yield": 0.12,
+    "avg_dividend_yield_5y": 0.07889,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "TEI",
+    "name": "Templeton Emerging Markets Income Fund",
+    "price": 6.99,
+    "dividend_yield": 0.15,
+    "avg_dividend_yield_5y": 0.09828,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "TSI",
+    "name": "TCW Strategic Income Fund Inc.",
+    "price": 4.71,
+    "dividend_yield": 0.04,
+    "avg_dividend_yield_5y": 0.06256,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "UTF",
+    "name": "Cohen & Steers Infrastructure Fund, Inc.",
+    "price": 26.8,
+    "dividend_yield": 0.08,
+    "avg_dividend_yield_5y": 0.07056,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "VBF",
+    "name": "Invesco Bond Fund",
+    "price": 15.51,
+    "dividend_yield": 0.05,
+    "avg_dividend_yield_5y": 0.05071,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "VGI",
+    "name": "Virtus Global Multi-Sector Income Fund",
+    "price": 7.87,
+    "dividend_yield": 0.13,
+    "dividends_per_share_ttm": 0
+  },
+  {
+    "ticker": "VVR",
+    "name": "Invesco Senior Income Trust",
+    "price": 3.295,
+    "dividend_yield": 0.09,
+    "dividends_per_share_ttm": 0.46,
+    "beta": 0.3225
+  },
+  {
+    "ticker": "WIA",
+    "name": "Western Asset Inflation-Linked Income Fund",
+    "price": 8.4,
+    "dividend_yield": 0.06,
+    "avg_dividend_yield_5y": 0.06565,
+    "dividends_per_share_ttm": 0.62,
+    "beta": 0.2301,
+    "high_52w": 8.4,
+    "low_52w": 7.44
+  },
+  {
+    "ticker": "WIW",
+    "name": "Western Asset Inflation-Linked Opportunities Fund",
+    "price": 8.77,
+    "dividend_yield": 0.07,
+    "avg_dividend_yield_5y": 0.07532,
+    "dividends_per_share_ttm": 0.75,
+    "beta": 0.2093,
+    "high_52w": 8.78,
+    "low_52w": 7.75
+  }
+]

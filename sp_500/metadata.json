@@ -1,0 +1,23 @@
+{
+  "source_file": "SP_500.xlsx",
+  "dataset_id": "sp_500",
+  "record_count": 497,
+  "generated_at": "2026-02-22T21:56:53Z",
+  "columns": [
+    "ticker",
+    "name",
+    "sector",
+    "price",
+    "dividend_yield",
+    "avg_dividend_yield_5y",
+    "dividends_per_share_ttm",
+    "market_cap_m",
+    "trailing_pe_ratio",
+    "payout_ratio",
+    "high_52w",
+    "low_52w"
+  ],
+  "sheet": "Characteristics",
+  "source_updated": "2026-02-14",
+  "data_provider": "Intrinio"
+}

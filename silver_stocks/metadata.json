@@ -1,0 +1,20 @@
+{
+  "source_file": "silver_stocks.xlsx",
+  "dataset_id": "silver_stocks",
+  "record_count": 16,
+  "generated_at": "2026-02-22T21:56:55Z",
+  "columns": [
+    "ticker",
+    "name",
+    "sector",
+    "price",
+    "avg_dividend_yield_5y",
+    "dividends_per_share_ttm",
+    "market_cap_m",
+    "trailing_pe_ratio",
+    "payout_ratio"
+  ],
+  "sheet": "Characteristics",
+  "source_updated": "2026-02-14",
+  "data_provider": "Intrinio"
+}
