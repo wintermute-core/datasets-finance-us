@@ -1,8 +1,7 @@
 # warren_buffett_stocks
 
 - Records: 39
-- Source: Intrinio (updated 2026-02-14)
-- Generated: 2026-02-22T21:56:55Z
+- Generated: 2026-02-22T22:01:40Z
 
 ## Schema
 

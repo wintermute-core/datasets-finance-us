@@ -1,8 +1,7 @@
 # wilshire_5000_stocks
 
 - Records: 2522
-- Source: Intrinio (updated 2026-02-14)
-- Generated: 2026-02-22T21:56:56Z
+- Generated: 2026-02-22T22:01:40Z
 
 ## Schema
 

@@ -1,8 +1,7 @@
 # best_dividend_stocks
 
 - Records: 50
-- Source: Intrinio (updated 2026-02-14)
-- Generated: 2026-02-22T21:56:53Z
+- Generated: 2026-02-22T22:01:38Z
 
 ## Schema
 

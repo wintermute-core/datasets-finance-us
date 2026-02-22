@@ -1,8 +1,7 @@
 # shipping_stocks
 
 - Records: 41
-- Source: Intrinio (updated 2026-02-14)
-- Generated: 2026-02-22T21:56:55Z
+- Generated: 2026-02-22T22:01:39Z
 
 ## Schema
 

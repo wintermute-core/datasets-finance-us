@@ -1,8 +1,7 @@
 # consumer_discretionary_stocks
 
 - Records: 248
-- Source: Intrinio (updated 2026-02-14)
-- Generated: 2026-02-22T21:56:54Z
+- Generated: 2026-02-22T22:01:38Z
 
 ## Schema
 

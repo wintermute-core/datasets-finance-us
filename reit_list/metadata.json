@@ -2,7 +2,7 @@
   "source_file": "reit_list.xlsx",
   "dataset_id": "reit_list",
   "record_count": 214,
-  "generated_at": "2026-02-22T21:56:55Z",
+  "generated_at": "2026-02-22T22:01:39Z",
   "columns": [
     "ticker",
     "name",

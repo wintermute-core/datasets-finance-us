@@ -2,7 +2,7 @@
   "source_file": "wilshire_5000_stocks.xlsx",
   "dataset_id": "wilshire_5000_stocks",
   "record_count": 2522,
-  "generated_at": "2026-02-22T21:56:56Z",
+  "generated_at": "2026-02-22T22:01:40Z",
   "columns": [
     "ticker",
     "name",

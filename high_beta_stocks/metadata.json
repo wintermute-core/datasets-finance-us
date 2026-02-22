@@ -2,7 +2,7 @@
   "source_file": "high_beta_stocks.xlsx",
   "dataset_id": "high_beta_stocks",
   "record_count": 494,
-  "generated_at": "2026-02-22T21:56:54Z",
+  "generated_at": "2026-02-22T22:01:39Z",
   "columns": [
     "ticker",
     "name",

@@ -2,7 +2,7 @@
   "source_file": "healthcare_stocks.xlsx",
   "dataset_id": "healthcare_stocks",
   "record_count": 347,
-  "generated_at": "2026-02-22T21:56:54Z",
+  "generated_at": "2026-02-22T22:01:39Z",
   "columns": [
     "ticker",
     "name",

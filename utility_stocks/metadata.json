@@ -2,7 +2,7 @@
   "source_file": "utility_stocks.xlsx",
   "dataset_id": "utility_stocks",
   "record_count": 31,
-  "generated_at": "2026-02-22T21:56:55Z",
+  "generated_at": "2026-02-22T22:01:40Z",
   "columns": [
     "ticker",
     "name",

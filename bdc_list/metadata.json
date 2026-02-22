@@ -2,7 +2,7 @@
   "source_file": "bdc_list.xlsx",
   "dataset_id": "bdc_list",
   "record_count": 54,
-  "generated_at": "2026-02-22T21:56:53Z",
+  "generated_at": "2026-02-22T22:01:38Z",
   "columns": [
     "ticker",
     "name",
