@@ -67,7 +67,6 @@
   },
   {
     "ticker": "ABC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 360.78,
     "avg_dividend_yield_5y": 0.0058,
@@ -80,7 +79,6 @@
   },
   {
     "ticker": "ABMD",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -373,7 +371,6 @@
   },
   {
     "ticker": "ALXN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -638,7 +635,6 @@
   },
   {
     "ticker": "ATVI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "dividend_yield": 0.01,
@@ -912,7 +908,6 @@
   },
   {
     "ticker": "BLL",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Cyclical",
     "price": 67.31,
     "dividend_yield": 0.01,
@@ -1187,7 +1182,6 @@
   },
   {
     "ticker": "CERN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "dividend_yield": 0.01,
@@ -1586,7 +1580,6 @@
   },
   {
     "ticker": "CTL",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 8.32,
     "avg_dividend_yield_5y": 0.04342,
@@ -1628,7 +1621,6 @@
   },
   {
     "ticker": "CTXS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 0,
     "dividend_yield": 0.01,
@@ -1804,7 +1796,6 @@
   },
   {
     "ticker": "DISCA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 27.99,
     "dividends_per_share_ttm": 0,
@@ -2462,7 +2453,6 @@
   },
   {
     "ticker": "FLT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 335.14,
     "dividends_per_share_ttm": 0,
@@ -2730,7 +2720,6 @@
   },
   {
     "ticker": "GPS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-GPS/\",\"\")",
     "sector": "Consumer Cyclical",
     "price": 27.67,
     "dividend_yield": 0.02,
@@ -3610,7 +3599,6 @@
   },
   {
     "ticker": "KSU",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 0,
     "dividend_yield": 0.01,
@@ -4324,7 +4312,6 @@
   },
   {
     "ticker": "MXIM",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -4441,7 +4428,6 @@
   },
   {
     "ticker": "NLOK",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 23.725,
     "avg_dividend_yield_5y": 0.01986,
@@ -4455,7 +4441,6 @@
   },
   {
     "ticker": "NLSN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 0,
     "dividend_yield": 0.01,
@@ -4786,7 +4771,6 @@
   },
   {
     "ticker": "PBCT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.04,
@@ -4941,7 +4925,6 @@
   },
   {
     "ticker": "PKI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 95.98,
     "avg_dividend_yield_5y": 0.00276,
@@ -5144,7 +5127,6 @@
   },
   {
     "ticker": "PXD",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.02,
@@ -5478,7 +5460,6 @@
   },
   {
     "ticker": "SIVB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -6000,7 +5981,6 @@
   },
   {
     "ticker": "TWTR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -6227,7 +6207,6 @@
   },
   {
     "ticker": "VAR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -6253,7 +6232,6 @@
   },
   {
     "ticker": "VIAC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -6625,7 +6603,6 @@
   },
   {
     "ticker": "XLNX",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 0,
     "avg_dividend_yield_5y": 0.00076,

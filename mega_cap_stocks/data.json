@@ -169,7 +169,6 @@
   },
   {
     "ticker": "BHPBF",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Basic Materials",
     "price": 0,
     "dividend_yield": 0.09,

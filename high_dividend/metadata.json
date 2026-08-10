@@ -1,8 +1,7 @@
 {
-  "source_file": "high_dividend.xlsx",
   "dataset_id": "high_dividend",
   "record_count": 174,
-  "generated_at": "2026-02-22T22:01:39Z",
+  "generated_at": "2026-08-10T09:10:43Z",
   "columns": [
     "ticker",
     "name",
@@ -18,6 +17,5 @@
     "low_52w"
   ],
   "sheet": "Characteristics",
-  "source_updated": "2026-02-14",
-  "data_provider": "Intrinio"
+  "source_updated": "2026-02-14"
 }

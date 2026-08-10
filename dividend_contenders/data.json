@@ -44,7 +44,6 @@
   },
   {
     "ticker": "ABC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 360.78,
     "avg_dividend_yield_5y": 0.0058,
@@ -283,7 +282,6 @@
   },
   {
     "ticker": "ALE",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Utilities",
     "price": 67.925,
     "dividend_yield": 0.04,
@@ -480,7 +478,6 @@
   },
   {
     "ticker": "ATRI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "dividend_yield": 0.02,
@@ -492,7 +489,6 @@
   },
   {
     "ticker": "ATVI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "dividend_yield": 0.01,
@@ -858,7 +854,6 @@
   },
   {
     "ticker": "BXS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.03,
@@ -1067,7 +1062,6 @@
   },
   {
     "ticker": "CMCS.A",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -1278,14 +1272,12 @@
   },
   {
     "ticker": "DGIC.A",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
   },
   {
     "ticker": "DGIC.B",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -2488,7 +2480,6 @@
   },
   {
     "ticker": "JW.B",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 30.9,
     "dividend_yield": 0.05,
@@ -2640,7 +2631,6 @@
   },
   {
     "ticker": "LBAI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.05,
@@ -3708,7 +3698,6 @@
   },
   {
     "ticker": "RBCA.A",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0

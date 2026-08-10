@@ -16,7 +16,6 @@
   },
   {
     "ticker": "ANCUF",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Defensive",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -418,7 +417,6 @@
   },
   {
     "ticker": "IPPLF",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -622,7 +620,6 @@
   },
   {
     "ticker": "SJR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "dividend_yield": 0.04,

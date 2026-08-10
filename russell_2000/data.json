@@ -677,7 +677,7 @@
   },
   {
     "ticker": "AI",
-    "name": "C3.ai, Inc.",
+    "name": ", Inc.",
     "sector": "Real Estate",
     "price": 10.82,
     "dividends_per_share_ttm": 0,
@@ -1016,7 +1016,7 @@
   },
   {
     "ticker": "ALRM",
-    "name": "Alarm.com Holdings, Inc.",
+    "name": "Holdings, Inc.",
     "sector": "Technology",
     "price": 46.4,
     "avg_dividend_yield_5y": 0,
@@ -2587,7 +2587,7 @@
   },
   {
     "ticker": "BBAI",
-    "name": "BigBear.ai Holdings, Inc.",
+    "name": "Holdings, Inc.",
     "sector": "N/A",
     "price": 4.075,
     "avg_dividend_yield_5y": 0,
@@ -2994,7 +2994,6 @@
   },
   {
     "ticker": "BHLB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 30.69,
     "avg_dividend_yield_5y": 0.02102,
@@ -3037,7 +3036,6 @@
   },
   {
     "ticker": "BIGC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 2.74,
     "dividends_per_share_ttm": 0,
@@ -3949,7 +3947,7 @@
   },
   {
     "ticker": "CARS",
-    "name": "Cars.com Inc.",
+    "name": "Inc.",
     "sector": "Consumer Cyclical",
     "price": 11.075,
     "dividends_per_share_ttm": 0,
@@ -4434,7 +4432,6 @@
   },
   {
     "ticker": "CGON",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 51.51,
     "dividends_per_share_ttm": 0
@@ -6237,7 +6234,7 @@
   },
   {
     "ticker": "DESP",
-    "name": "Despegar.com, Corp.",
+    "name": ", Corp.",
     "sector": "Consumer Cyclical",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -6354,7 +6351,7 @@
   },
   {
     "ticker": "DIBS",
-    "name": "1stdibs.com, Inc.",
+    "name": ", Inc.",
     "sector": "N/A",
     "price": 5.33,
     "avg_dividend_yield_5y": 0,
@@ -8015,7 +8012,6 @@
   },
   {
     "ticker": "FFNW",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.02,
@@ -8834,7 +8830,7 @@
   },
   {
     "ticker": "GAMB",
-    "name": "Gambling.com Group Ltd",
+    "name": "Group Ltd",
     "sector": "N/A",
     "price": 4.245,
     "avg_dividend_yield_5y": 0,
@@ -9327,7 +9323,6 @@
   },
   {
     "ticker": "GMS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 109.97,
     "avg_dividend_yield_5y": 0,
@@ -9721,7 +9716,6 @@
   },
   {
     "ticker": "GTXI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -11972,7 +11966,7 @@
   },
   {
     "ticker": "JILL",
-    "name": "J.Jill, Inc.",
+    "name": ", Inc.",
     "sector": "Consumer Cyclical",
     "price": 16.38,
     "dividend_yield": 0.02,
@@ -13619,7 +13613,7 @@
   },
   {
     "ticker": "LZ",
-    "name": "LEGALZOOM.COM, INC.",
+    "name": ", INC.",
     "sector": "N/A",
     "price": 6.84,
     "avg_dividend_yield_5y": 0,
@@ -14134,7 +14128,6 @@
   },
   {
     "ticker": "METCV",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -14635,7 +14628,6 @@
   },
   {
     "ticker": "MOGA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 324.61,
     "avg_dividend_yield_5y": 0.00331,
@@ -14810,7 +14802,6 @@
   },
   {
     "ticker": "MSFUT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -17486,7 +17477,6 @@
   },
   {
     "ticker": "PDLI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -20868,7 +20858,6 @@
   },
   {
     "ticker": "SJW",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Utilities",
     "price": 54.88,
     "dividend_yield": 0.03,

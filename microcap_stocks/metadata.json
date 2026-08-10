@@ -1,8 +1,7 @@
 {
-  "source_file": "microcap_stocks.xlsx",
   "dataset_id": "microcap_stocks",
   "record_count": 881,
-  "generated_at": "2026-02-22T22:01:39Z",
+  "generated_at": "2026-08-10T09:10:43Z",
   "columns": [
     "ticker",
     "name",
@@ -16,6 +15,5 @@
     "low_52w"
   ],
   "sheet": "Characteristics",
-  "source_updated": "2026-02-14",
-  "data_provider": "Intrinio"
+  "source_updated": "2026-02-14"
 }

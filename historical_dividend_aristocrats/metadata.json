@@ -1,8 +1,7 @@
 {
-  "source_file": "Historical-Dividend-Aristocrats.xlsx",
-  "dataset_id": "historical-dividend-aristocrats",
+  "dataset_id": "historical_dividend_aristocrats",
   "record_count": 170,
-  "generated_at": "2026-02-22T22:01:37Z",
+  "generated_at": "2026-08-10T09:10:41Z",
   "columns": [
     "dividend_aristocrats_1989_2023",
     "col_1",

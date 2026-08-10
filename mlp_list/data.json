@@ -68,7 +68,6 @@
   },
   {
     "ticker": "BKEP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.04,
@@ -99,7 +98,6 @@
   },
   {
     "ticker": "CCLP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.03,
@@ -218,7 +216,6 @@
   },
   {
     "ticker": "EPDU",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -360,7 +357,6 @@
   },
   {
     "ticker": "HMLP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividends_per_share_ttm": 0.04,
@@ -538,7 +534,6 @@
   },
   {
     "ticker": "PSXP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.08,
@@ -568,7 +563,6 @@
   },
   {
     "ticker": "RTLR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.08,
@@ -601,7 +595,6 @@
   },
   {
     "ticker": "SNMP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividends_per_share_ttm": 0,

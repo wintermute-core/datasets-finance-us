@@ -73,7 +73,6 @@
   },
   {
     "ticker": "DFDS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -169,7 +168,6 @@
   },
   {
     "ticker": "GRIN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 29.51,
     "avg_dividend_yield_5y": 0.00029,
@@ -202,7 +200,6 @@
   },
   {
     "ticker": "IDS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -298,7 +295,6 @@
   },
   {
     "ticker": "MPCC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -317,7 +313,6 @@
   },
   {
     "ticker": "NETI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0.00353,

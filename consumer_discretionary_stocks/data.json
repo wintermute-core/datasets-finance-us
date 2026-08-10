@@ -1585,7 +1585,6 @@
   },
   {
     "ticker": "LENB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 114.415,
     "dividend_yield": 0.02,
@@ -2993,7 +2992,6 @@
   },
   {
     "ticker": "UHALB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 46.02,
     "avg_dividend_yield_5y": 0.00267,

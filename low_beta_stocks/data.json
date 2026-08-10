@@ -132,7 +132,6 @@
   },
   {
     "ticker": "ABC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 360.78,
     "avg_dividend_yield_5y": 0.0058,
@@ -369,7 +368,6 @@
   },
   {
     "ticker": "ATVI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Communication Services",
     "price": 0,
     "dividend_yield": 0.01,
@@ -531,7 +529,6 @@
   },
   {
     "ticker": "CTXS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 0,
     "dividend_yield": 0.01,
@@ -823,7 +820,6 @@
   },
   {
     "ticker": "BLL",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Cyclical",
     "price": 67.31,
     "dividend_yield": 0.01,
@@ -1361,7 +1357,6 @@
   },
   {
     "ticker": "PXD",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "dividend_yield": 0.02,

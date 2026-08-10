@@ -99,7 +99,6 @@
   },
   {
     "ticker": "CMFN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 3.06,
     "dividend_yield": 0.21,
@@ -138,7 +137,6 @@
   },
   {
     "ticker": "FCRD",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0.03921,
@@ -183,7 +181,6 @@
   },
   {
     "ticker": "GARS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.13,
@@ -242,7 +239,6 @@
   },
   {
     "ticker": "GSVC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 9.67,
     "dividend_yield": 0.05,
@@ -256,7 +252,6 @@
   },
   {
     "ticker": "HCAP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.04,
@@ -364,7 +359,6 @@
   },
   {
     "ticker": "OCSI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.08,
@@ -396,7 +390,6 @@
   },
   {
     "ticker": "OHAI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividend_yield": 0.06,
@@ -404,7 +397,6 @@
   },
   {
     "ticker": "ORCC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -597,7 +589,6 @@
   },
   {
     "ticker": "TCRD",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "avg_dividend_yield_5y": 0.03921,

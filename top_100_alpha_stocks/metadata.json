@@ -1,8 +1,7 @@
 {
-  "source_file": "Top-100-Alpha-Stocks.xlsx",
-  "dataset_id": "top-100-alpha-stocks",
+  "dataset_id": "top_100_alpha_stocks",
   "record_count": 100,
-  "generated_at": "2026-02-22T22:01:38Z",
+  "generated_at": "2026-08-10T09:10:41Z",
   "columns": [
     "ticker",
     "name",

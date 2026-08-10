@@ -1,8 +1,7 @@
 {
-  "source_file": "bdc_list.xlsx",
   "dataset_id": "bdc_list",
   "record_count": 54,
-  "generated_at": "2026-02-22T22:01:38Z",
+  "generated_at": "2026-08-10T09:10:41Z",
   "columns": [
     "ticker",
     "name",
@@ -14,6 +13,5 @@
     "beta"
   ],
   "sheet": "Characteristics",
-  "source_updated": "2026-02-14",
-  "data_provider": "Intrinio"
+  "source_updated": "2026-02-14"
 }

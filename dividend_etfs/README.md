@@ -1,7 +1,7 @@
-# dividend-etfs
+# dividend_etfs
 
 - Records: 25
-- Generated: 2026-02-22T22:01:37Z
+- Generated: 2026-08-10T09:10:41Z
 
 ## Schema
 

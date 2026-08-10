@@ -1,8 +1,7 @@
 {
-  "source_file": "Dividend-ETFs.xlsx",
-  "dataset_id": "dividend-etfs",
+  "dataset_id": "dividend_etfs",
   "record_count": 25,
-  "generated_at": "2026-02-22T22:01:37Z",
+  "generated_at": "2026-08-10T09:10:41Z",
   "columns": [
     "ticker",
     "dividend_yield",

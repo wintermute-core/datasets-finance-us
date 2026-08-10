@@ -353,7 +353,6 @@
   },
   {
     "ticker": "ROIC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividend_yield": 0.03,
@@ -586,7 +585,6 @@
   },
   {
     "ticker": "AJX",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 14.65,
     "dividend_yield": 0.12,
@@ -1021,7 +1019,6 @@
   },
   {
     "ticker": "CXP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividend_yield": 0.04,
@@ -1055,7 +1052,6 @@
   },
   {
     "ticker": "DCT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -1217,7 +1213,6 @@
   },
   {
     "ticker": "EQC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividends_per_share_ttm": 5.25,
@@ -2145,7 +2140,6 @@
   },
   {
     "ticker": "RPAI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividend_yield": 0.02,
@@ -2489,7 +2483,6 @@
   },
   {
     "ticker": "VER",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividends_per_share_ttm": 0,

@@ -43,7 +43,6 @@
   },
   {
     "ticker": "VGR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Defensive",
     "price": 0,
     "dividend_yield": 0.05,

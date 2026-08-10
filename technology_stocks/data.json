@@ -161,7 +161,7 @@
   },
   {
     "ticker": "ALRM",
-    "name": "Alarm.com Holdings, Inc.",
+    "name": "Holdings, Inc.",
     "sector": "Technology",
     "price": 46.4,
     "dividends_per_share_ttm": 0,
@@ -1360,7 +1360,6 @@
   },
   {
     "ticker": "RAL",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 44.095,
     "avg_dividend_yield_5y": 0.00051,
@@ -1572,7 +1571,6 @@
   },
   {
     "ticker": "TEL",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-TEL/\",\"\")",
     "sector": "Technology",
     "price": 236.1,
     "dividend_yield": 0.0120288013553579,

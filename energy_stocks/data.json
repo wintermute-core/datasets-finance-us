@@ -308,7 +308,6 @@
   },
   {
     "ticker": "NESTE",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -369,7 +368,6 @@
   },
   {
     "ticker": "PBRA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 14.12,
     "dividend_yield": 0.03,
@@ -443,7 +441,6 @@
   },
   {
     "ticker": "STO",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 28.07,
     "dividend_yield": 0.06,

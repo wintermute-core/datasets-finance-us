@@ -951,7 +951,7 @@
   },
   {
     "ticker": "AI",
-    "name": "C3.ai, Inc.",
+    "name": ", Inc.",
     "sector": "Real Estate",
     "price": 10.82,
     "avg_dividend_yield_5y": 0,
@@ -1414,7 +1414,7 @@
   },
   {
     "ticker": "ALRM",
-    "name": "Alarm.com Holdings, Inc.",
+    "name": "Holdings, Inc.",
     "sector": "Technology",
     "price": 46.4,
     "avg_dividend_yield_5y": 0,
@@ -1484,7 +1484,6 @@
   },
   {
     "ticker": "ALTM",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -3269,7 +3268,6 @@
   },
   {
     "ticker": "AXNX",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -3823,7 +3821,6 @@
   },
   {
     "ticker": "BFA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 30.2,
     "dividend_yield": 0.03,
@@ -3849,7 +3846,6 @@
   },
   {
     "ticker": "BFB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 29.935,
     "dividend_yield": 0.03,
@@ -4008,7 +4004,6 @@
   },
   {
     "ticker": "BHLB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 30.69,
     "avg_dividend_yield_5y": 0.02102,
@@ -4095,7 +4090,6 @@
   },
   {
     "ticker": "BJRI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Cyclical",
     "price": 40.61,
     "dividends_per_share_ttm": 0,
@@ -5208,7 +5202,7 @@
   },
   {
     "ticker": "CARS",
-    "name": "Cars.com Inc.",
+    "name": "Inc.",
     "sector": "Consumer Cyclical",
     "price": 11.075,
     "dividends_per_share_ttm": 0,
@@ -5777,7 +5771,6 @@
   },
   {
     "ticker": "CEIX",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Energy",
     "price": 91.505,
     "avg_dividend_yield_5y": 0.01313,
@@ -5898,7 +5891,6 @@
   },
   {
     "ticker": "CFB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -6170,7 +6162,6 @@
   },
   {
     "ticker": "CHUY",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Consumer Cyclical",
     "price": 0,
     "dividends_per_share_ttm": 0,
@@ -7823,7 +7814,6 @@
   },
   {
     "ticker": "CUR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 1.75,
     "dividends_per_share_ttm": 0,
@@ -10236,7 +10226,6 @@
   },
   {
     "ticker": "EQC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "avg_dividend_yield_5y": 0.66456,
@@ -10503,7 +10492,6 @@
   },
   {
     "ticker": "ESZ4",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -11061,7 +11049,6 @@
   },
   {
     "ticker": "FAZ4",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -12478,7 +12465,6 @@
   },
   {
     "ticker": "GATO",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -13055,7 +13041,6 @@
   },
   {
     "ticker": "GMS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 109.97,
     "avg_dividend_yield_5y": 0,
@@ -13556,7 +13541,6 @@
   },
   {
     "ticker": "GTXI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -13747,7 +13731,6 @@
   },
   {
     "ticker": "HAYN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 0,
     "dividend_yield": 0.01,
@@ -14318,7 +14301,6 @@
   },
   {
     "ticker": "HNR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -14773,7 +14755,6 @@
   },
   {
     "ticker": "HTLF",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.02,
@@ -15154,7 +15135,6 @@
   },
   {
     "ticker": "IBTX",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.03,
@@ -15640,7 +15620,6 @@
   },
   {
     "ticker": "INST",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -16316,7 +16295,6 @@
   },
   {
     "ticker": "JCS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Technology",
     "price": 2.05,
     "avg_dividend_yield_5y": 3962.26415,
@@ -17509,7 +17487,6 @@
   },
   {
     "ticker": "LBPH",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -17705,7 +17682,6 @@
   },
   {
     "ticker": "LENB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 114.415,
     "dividend_yield": 0.02,
@@ -18703,7 +18679,7 @@
   },
   {
     "ticker": "LZ",
-    "name": "LEGALZOOM.COM, INC.",
+    "name": ", INC.",
     "sector": "N/A",
     "price": 6.84,
     "avg_dividend_yield_5y": 0,
@@ -19366,7 +19342,6 @@
   },
   {
     "ticker": "METCV",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -19916,7 +19891,6 @@
   },
   {
     "ticker": "MOGA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 324.61,
     "avg_dividend_yield_5y": 0.00331,
@@ -20149,7 +20123,6 @@
   },
   {
     "ticker": "MRNS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -20314,7 +20287,6 @@
   },
   {
     "ticker": "MSFUT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -20781,7 +20753,6 @@
   },
   {
     "ticker": "NARI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -23599,7 +23570,6 @@
   },
   {
     "ticker": "PDLI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -23734,7 +23704,6 @@
   },
   {
     "ticker": "PETQ",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -26239,7 +26208,6 @@
   },
   {
     "ticker": "ROIC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Real Estate",
     "price": 0,
     "dividend_yield": 0.03,
@@ -26611,7 +26579,6 @@
   },
   {
     "ticker": "RVNC",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -27249,7 +27216,6 @@
   },
   {
     "ticker": "SEG RT",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -27504,7 +27470,6 @@
   },
   {
     "ticker": "SHCR",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -27743,7 +27708,6 @@
   },
   {
     "ticker": "SJW",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Utilities",
     "price": 54.88,
     "dividend_yield": 0.03,
@@ -28584,7 +28548,6 @@
   },
   {
     "ticker": "SQSP",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -30883,7 +30846,6 @@
   },
   {
     "ticker": "TWKS",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -31271,7 +31233,6 @@
   },
   {
     "ticker": "UHALB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 46.02,
     "avg_dividend_yield_5y": 0.00267,
@@ -32599,7 +32560,6 @@
   },
   {
     "ticker": "VVI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Industrials",
     "price": 36.61,
     "avg_dividend_yield_5y": 0,
@@ -32668,7 +32628,6 @@
   },
   {
     "ticker": "VZIO",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "avg_dividend_yield_5y": 0,
@@ -33944,7 +33903,6 @@
   },
   {
     "ticker": "XTSLA",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -34160,7 +34118,6 @@
   },
   {
     "ticker": "ZI",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 6.35,
     "avg_dividend_yield_5y": 0,

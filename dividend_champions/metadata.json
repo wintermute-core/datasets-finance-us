@@ -1,8 +1,7 @@
 {
-  "source_file": "dividend_champions.xlsx",
   "dataset_id": "dividend_champions",
   "record_count": 165,
-  "generated_at": "2026-02-22T22:01:38Z",
+  "generated_at": "2026-08-10T09:10:42Z",
   "columns": [
     "ticker",
     "name_click_to_read_analysis",

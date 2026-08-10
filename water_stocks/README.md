@@ -1,7 +1,7 @@
 # water_stocks
 
 - Records: 45
-- Generated: 2026-02-22T22:01:40Z
+- Generated: 2026-08-10T09:10:45Z
 
 ## Schema
 

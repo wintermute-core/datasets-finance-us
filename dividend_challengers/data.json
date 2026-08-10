@@ -131,7 +131,6 @@
   },
   {
     "ticker": "AY",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Utilities",
     "price": 0,
     "dividend_yield": 0.07,
@@ -810,7 +809,6 @@
   },
   {
     "ticker": "FCNC.A",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
@@ -844,7 +842,6 @@
   },
   {
     "ticker": "FFNW",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.02,
@@ -1224,7 +1221,6 @@
   },
   {
     "ticker": "HTLF",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Financial Services",
     "price": 0,
     "dividend_yield": 0.02,
@@ -2121,14 +2117,12 @@
   },
   {
     "ticker": "RUSH.A",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0
   },
   {
     "ticker": "RUSH.B",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 0,
     "dividends_per_share_ttm": 0

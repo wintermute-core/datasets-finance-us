@@ -1,8 +1,7 @@
 {
-  "source_file": "defense_stocks.xlsx",
   "dataset_id": "defense_stocks",
   "record_count": 43,
-  "generated_at": "2026-02-22T22:01:38Z",
+  "generated_at": "2026-08-10T09:10:42Z",
   "columns": [
     "ticker",
     "name",
@@ -17,6 +16,5 @@
     "low_52w"
   ],
   "sheet": "Characteristics",
-  "source_updated": "2026-02-14",
-  "data_provider": "Intrinio"
+  "source_updated": "2026-02-14"
 }

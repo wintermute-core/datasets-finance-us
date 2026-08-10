@@ -12,7 +12,6 @@
   },
   {
     "ticker": "BVN",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Basic Materials",
     "price": 38,
     "dividend_yield": 0.01,

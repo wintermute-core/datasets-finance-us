@@ -914,7 +914,6 @@
   },
   {
     "ticker": "CGON",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "N/A",
     "price": 51.51,
     "dividends_per_share_ttm": 0,
@@ -1660,7 +1659,6 @@
   },
   {
     "ticker": "GMAB",
-    "name": "=HYPERLINK(\"https://www.suredividend.com/sure-analysis-research-database/\",\"\")",
     "sector": "Healthcare",
     "price": 30.04,
     "dividends_per_share_ttm": 0
